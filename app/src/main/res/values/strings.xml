@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="splash_title">Tic Tac Toe Game : AminRahkan7 </string>
+    <string name="main_menu_2player">2 Player</string>
+    <string name="main_menu_1player">1 Player</string>
+    <string name="win_alarm_player1">player 1 is Winner ...</string>
+    <string name="win_alarm_player2">player 2 is Winner ...</string>
+
+</resources>
