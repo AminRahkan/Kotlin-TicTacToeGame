@@ -3,4 +3,4 @@ Tic Tac Toe Game is a simple mini game by kolin for beginner kotlin programmers 
 
 
 
-<image src="https://github.com/AminRahkan/Kotlin/blob/master/rsz_photo_2017-07-31_10-35-37.jpg"/>
+<image src="https://github.com/AminRahkan/Kotlin-TicTacToeGame/blob/master/pics/rsz_photo_2017-07-31_10-35-37.jpg?raw=true"/>
